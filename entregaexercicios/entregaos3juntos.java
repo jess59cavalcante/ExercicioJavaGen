@@ -28,9 +28,7 @@ public class Diatres {
 }
 			System.out.println("\n A quantidade de numero par foi: "+contPar);
 			System.out.println("\n A quantidade de numero impar foi: "+contImpar);
-	}
-	
-}
+			
 
 package SegundaExperienciaJava;
 
@@ -65,9 +63,8 @@ public class Idade0301 {
         System.out.println("Total de pessoas menores de 21 anos: "+menorIdade21);
         System.out.println("Total de pessoas maiores de 50 anos: "+maiorIdade50);
 
-	}
 
-}
+
 
 
 package SegundaExperienciaJava;
